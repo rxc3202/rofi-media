@@ -8,8 +8,8 @@ shortcut that will do two things:
 
 # Screenshots
 Picking a Media Player
-[Pick Media Player](pick.png)
+![Pick Media Player](pick.png)
 
 Using Controls
-[Controls](controls.png)
+![Controls](controls.png)
 
